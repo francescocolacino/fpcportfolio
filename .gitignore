@@ -1,0 +1,8 @@
+node_modules
+dist
+*.log
+*.tsbuildinfo
+.netlify
+.DS_Store
+# riferimento di stile di terzi: solo uso locale
+assets/riferimento-stile.jpg
